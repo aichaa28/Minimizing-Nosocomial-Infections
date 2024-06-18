@@ -1,0 +1,74 @@
+DGN	
+
+
+l s'agit d'un code qui représente le diagnostic principal d'un patient. Dans ce cas, DGNA est une combinaison spécifique de codes CIM-10 pour tumeur primitive et secondaire et tumeurs multiples.
+
+categories:
+
+1. DGN3 : Ce code ICD-10 fait référence à un cancer du poumon de type non à petites cellules (non-small cell lung cancer, NSCLC) de stade T3. Cela signifie que la tumeur est localement avancée et peut affecter des structures voisines, telles que les bronches, les vaisseaux sanguins ou les nerfs.
+
+2. DGN2 : Ce code correspond à un NSCLC de stade T2, indiquant une tumeur de taille modérée qui peut avoir envahi les tissus environnants, mais n'a pas encore atteint les structures majeures du poumon.
+
+3. DGN4 : Ce code représente un NSCLC de stade T4, ce qui signifie que la tumeur est localement avancée et a envahi des structures importantes telles que le cœur, la trachée ou les gros vaisseaux sanguins.
+
+4. DGN6 : Ce code est associé à un NSCLC de stade T1b, indiquant une petite tumeur qui a envahi les tissus pulmonaires, mais n'a pas atteint les ganglions lymphatiques ou les structures voisines.
+
+5. DGN5 : Ce code correspond à un NSCLC de stade T1a, indiquant une tumeur encore plus petite qui n'a pas envahi les ganglions lymphatiques ou les structures voisines.
+
+6. DGN8 : Ce code est utilisé pour les cas de métastases pulmonaires, où le cancer s'est propagé à partir d'une autre partie du corps vers les poumons.
+
+7. DGN1 : Ce code est réservé aux patients atteints de cancer du poumon à petites cellules (small cell lung cancer, SCLC), qui est un type de cancer plus agressif et souvent associé à une propagation plus rapide.
+
+
+
+
+
+
+
+
+
+
+
+
+
+PRE4	FVC (Forced Vital Capacity) représente la capacité vitale forcée, et PRE4 serait un numéro d'ordre attribué à cette évaluation dans le cadre des examens pré-opératoires.	Numeric
+
+PRE5	PRE5 est l'abréviation de "Preoperative Evaluation 5". Il s'agit de la capacité vitale forcée (CVF) du patient. La CVF est le volume d'air maximal qu'un            patient peut expirer de ses poumons en une seule expiration forcée.	Numeric
+
+
+PRE6	Le PRE6 fait référence à l’état de performance d’un patient, évalué à l’aide de l’échelle de Zubrod (ou échelle de l’Eastern Cooperative Oncology Group, ECOG). Voici ce que signifient les valeurs associées à cette échelle :
+
+PRZ2 : Le patient a une performance modérément altérée. Il peut accomplir des activités quotidiennes, mais avec une certaine difficulté. Par exemple, il peut se fatiguer plus rapidement ou ressentir un essoufflement lors d’efforts physiques.
+PRZ1 : Le patient a une performance légèrement altérée. Il est capable d’effectuer des activités normales, mais peut ressentir une certaine fatigue ou un essoufflement lors d’efforts plus intenses.
+PRZ0 : Le patient a une performance normale. Il peut mener une vie quotidienne sans limitation significative liée à sa santé.
+
+
+
+
+
+PRE7	PRE7 est l'abréviation de "Preoperative Evaluation 7". Il s'agit de la présence ou non de douleur chez le patient avant la chirurgie	(T, F)
+
+PRE8	PRE8 est l'abréviation de "Preoperative Evaluation 8". Il s'agit de la présence ou non d'hémoptysie chez le patient avant la chirurgie. L'hémoptysie est l'expectoration de crachats sanglants.	(T, F)
+
+PRE9	PRE9 est l'abréviation de "Preoperative Evaluation 9". Il s'agit de la présence ou non de dyspnée chez le patient avant la chirurgie. La dyspnée est une difficulté à respirer.	(T, F)
+
+PRE10	 est l'abréviation de "Preoperative Evaluation 10". Il s'agit de la présence ou non de toux chez le patient avant la chirurgie.	(T, F)
+
+PRE11	 est l'abréviation de "Preoperative Evaluation 11". Il s'agit de la présence ou non de faiblesse chez le patient avant la chirurgie.	(T, F)
+
+PRE14	 est l'abréviation de "Preoperative Evaluation 14T". Il s'agit de la taille T de la tumeur primitive selon la classification TNM clinique. La classification TNM est un système de classification utilisé pour évaluer l'étendue du cancer.	(T, F)
+
+PRE17	PRE17 est l'abréviation de "Preoperative Evaluation 17". Il s'agit de la présence ou non de diabète sucré de type 2 chez le patient.	(T, F)
+
+PRE19	PRE19 est l'abréviation de "Preoperative Evaluation 19". Il s'agit de la présence ou non d'un infarctus du myocarde (IM) chez le patient jusqu'à 6 mois avant la chirurgie.	(T, F)
+
+PRE25	PRE25 est l'abréviation de "Preoperative Evaluation 25". Il s'agit de la présence ou non d'artériopathie périphérique (APP) chez le patient.	(T, F)
+
+PRE30	PRE30 est l'abréviation de "Preoperative Evaluation 30". Il s'agit du statut tabagique du patient	(T, F)
+
+PRE32	PRE32 est l'abréviation de "Preoperative Evaluation 32". Il s'agit de la présence ou non d'asthme chez le patient.	(T, F)
+
+AGE	AGE est l'abréviation de "Age". Il s'agit de l'âge du patient à la chirurgie.
+	Numeric
+
+Risk1Y	Risk1Y est l'abréviation de "Risk 1 Year". Il s'agit du risque de survie du patient à 1 an après la chirurgie.	(T, F)
